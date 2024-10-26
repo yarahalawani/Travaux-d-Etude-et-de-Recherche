@@ -1,0 +1,52 @@
+{
+  "nodes": [
+    {
+      "inputs": [
+        {
+          "node": 1
+        }
+      ],
+      "locations": [
+        {
+          "transitions": [
+            {
+              "target": 1
+            }
+          ]
+        },
+        {
+          "transitions": [
+            {
+              "target": 0
+            }
+          ]
+        }
+      ],
+      "current": 0
+    },
+    {
+      "inputs": [
+        {
+          "node": 0
+        }
+      ],
+      "locations": [
+        {
+          "transitions": [
+            {
+              "target": 1
+            }
+          ]
+        },
+        {
+          "transitions": [
+            {
+              "target": 0
+            }
+          ]
+        }
+      ],
+      "current": 0
+    }
+  ]
+}

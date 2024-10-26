@@ -1,0 +1,3 @@
+- eventuellement discuter avec Youssra et Talout à propos du papier
+- essayer de faire un prototype de simulateur nous mêmes
+- proposer une première Q-Table

@@ -1,0 +1,65 @@
+{
+  "nodes": [
+    {
+      "inputs": [
+        {
+          "node": 1
+        }
+      ],
+      "locations": [
+        {
+          "transitions": [
+            {
+              "target": 1
+            },
+            {
+              "target": 2
+            },
+            {
+              "target": 3
+            }
+          ]
+        },
+        {"transitions": [
+          {"target": 2}, {"target": 3}
+        ]},
+        {"transitions": [
+          {"target": 1},{"target": 3}
+        ]},
+        {"transitions": []}
+      ],
+      "current": 0
+    },
+    {
+      "inputs": [
+        {
+          "node": 0
+        }
+      ],
+      "locations": [
+        {
+          "transitions": [
+            {
+              "target": 1
+            },
+            {
+              "target": 2
+            },
+            {
+              "target": 3
+            }
+          ]
+        },
+        {"transitions": [
+          {"target": 2}, {"target": 3}
+        ]},
+        {"transitions": [
+          {"target": 1},{"target": 3}
+        ]},
+        {"transitions": []}
+      ],
+      "current": 0
+    }
+  ]
+
+}
