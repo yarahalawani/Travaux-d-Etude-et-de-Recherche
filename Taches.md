@@ -1,2 +1,0 @@
-- Implémenter Q-learning basique pour exemple simple hyena
-- Implémenter un environnement simple sur gym
